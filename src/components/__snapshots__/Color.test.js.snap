@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test color component creates color html 1`] = `
+<ul>
+  <li>
+    blue
+  </li>
+  <li>
+    #8673A1
+  </li>
+  <li>
+    red:
+    55
+  </li>
+  <li>
+    green:
+    44
+  </li>
+  <li>
+    blue:
+    674
+  </li>
+</ul>
+`;
